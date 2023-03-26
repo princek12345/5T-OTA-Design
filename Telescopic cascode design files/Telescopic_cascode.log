@@ -1,0 +1,157 @@
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter LDIF
+Ignoring BSIM parameter CALCACM
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter LDIF
+Ignoring BSIM parameter CALCACM
+Error on line 63 : .model p18 pmos (  lmin = 1.65e-007 lmax = 5e-007 wmin = 2.05e-007 wmax = 5e-007  level = 49 version = 3.24  vth0 = -0.4253 lvth0 = 9.705e-009 wvth0 = 1.12406e-008 pvth0 = -1.86656e-015  k1 = 0.434498 lk1 = 4.78238e-008 wk1 = 8.46853e-008 pk1 = -1.17253e-014  k2 = 0.0578256 lk2 = -1.52753e-008 wk2 = -3.07462e-008 pk2 = 3.30052e-015  u0 = 66.6004 lu0 = -4.32947e-006 wu0 = -5.08676e-006 pu0 = 5.90391e-013  ua = 3.45013e-010 lua = -2.14416e-016 wua = -2.63838e-016 pua = 3.20409e-023  ub = 1.17418e-018 lub = 1.20675e-025 wub = 5.9567e-026 pub = -2.15531e-032  uc = -1.33336e-010 luc = 1.65518e-017 wuc = 1.60416e-017 puc = -4.69477e-024  vsat = 120403 lvsat = 0.00243187 wvsat = -0.00436071 pvsat = -3.3e-010  a0 = 1.45659 la0 = 1.18255e-007 wa0 = -1.73326e-007 pa0 = -2.62453e-015  ags = 0.114358 lags = 1.99911e-007 wags = 5.94835e-008 pags = -4.09716e-014  keta = 0.000583741 lketa = 2.17727e-009 wketa = 1.504e-009 pketa = -9.67622e-016  voff = -0.132098 lvoff = 2.75906e-009 wvoff = 8.51763e-009 pvoff = -1.36641e-015  nfactor = 1.14491 lnfactor = 1.65319e-008 wnfactor = -5.95179e-009 pnfactor = 1.93875e-015  pclm = 2.65776 lpclm = -1.9952e-007 wpclm = -2.13849e-007 ppclm = 2.41467e-014  pdiblcb = -3.9798 lpdiblcb = 5.29266e-007 wpdiblcb = -6.2285e-007 ppdiblcb = 5.08922e-014  pscbe1 = -5.3e+008 lpscbe1 = 153 wpscbe1 = 336.6 ppscbe1 = -3.366e-005  pvag = 6.04997 lpvag = -5.9257e-007 wpvag = -1.33093e-006 ppvag = 1.30361e-013  ute = -0.414135 lute = -4.36472e-008 wute = 2.52239e-008 pute = 2.8478e-014  ua1 = 4.37327e-009 lua1 = -3.27984e-016 wua1 = -4.00199e-016 pua1 = 1.00598e-022  ub1 = -6.10158e-018 lub1 = 4.15322e-025 wub1 = 7.03288e-025 pub1 = -1.14211e-031  uc1 = -8.57234e-011 luc1 = 2.46323e-017 wuc1 = -1.69555e-017 puc1 = -6.33445e-024  at = 38950.9 lat = 0.00464062 wat = 0.00552455 pat = -2.32031e-009  kt1 = -0.243082 lkt1 = -6.1275e-009 wkt1 = 1.01504e-008 pkt1 = 9.17812e-016  kt2 = 0.014073 lkt2 = -8.36527e-009 wkt2 = 9.40795e-010 pkt2 = 1.25091e-015  pdiblc2 = 4.625e-005 lpdiblc2 = -2.625e-012 wpdiblc2 = -9.96873e-028 ppdiblc2 = 0  dwg = 0 dwb = 0  binunit = 2 mobmod = 1 capmod = 3 noimod = 2  paramchk = 1 delta = 0.01 tnom = 27 tox = 4e-009  toxm = 4e-009 nch = 8.11518e+017 xj = 1.5e-007 ngate = 0  rsh = 0 k3 = -5.059 k3b = 3.962 w0 = 2.705e-007  nlx = 8.26e-008 dvt0 = 0.9523 dvt1 = 0.2578 dvt2 = 0.099  dvt0w = -2.973 dvt1w = 5.3e+006 dvt2w = -0.032 eta0 = 0.003519  etab = -0.004696 dsub = 0.2 b0 = 0 b1 = 0  a1 = 1e-015 a2 = 0.995 rdsw = 1505 prwb = -0.009067  prwg = -0.2868 wr = 1 wint = -4e-008 wl = 0  wln = 1 ww = 0 wwn = 1 wwl = 0  lint = 5e-008 ll = 0 lln = 0.21 lw = 0  lwn = 1 lwl = 0 cit = 0 cdsc = 0.00024  cdscb = 0 cdscd = 0 pdiblc1 = 0.1029 drout = 0.56  pscbe2 = 1e-005 alpha0 = 0 alpha1 = 0  beta0 = 30 js = 1.775e-006 jsw = 1e-018 nj = 1.127  ijth = 0.001416 cj = 0.0009621 mj = 0.3626 pb = 0.775  cjsw = 2.8e-011 mjsw = 0.05 pbsw = 1 cjswg = 5e-010  mjswg = 0.33 pbswg = 1 cgdo = 2.6e-010 cgso = 2.6e-010  cgbo = 0 cgsl = 0 cgdl = 0 ckappa = 0.6  cf = 0 noff = 3 voffcv = -0.08 acde = 0.9  moin = 15 dlc = -136n dwc = 0 llc = 5.77n  lwc = 0 lwlc = 0 wlc = 0 wwc = 0  wwlc = 0 clc = 1e-007 cle = 0.6 elm = 2  xpart = 0.5 kt1l = 0 prt = 565.7 xti = 1.311  tpb = 0.0008294 tpbsw = 0 tpbswg = 0 tcj = 0.0006115  tcjsw = 0 tcjswg = 0 ef = 1.24  em = 21500000 noia = 5.623e+19 noib = 1526000  noic = 3.630e-11  binflag = 1 lref = 1e14 wref = 1e14 tref = 25  xl = 0 xw = 0 lmlt = 1 wmlt = 1  rd = 0 rdc = 0 rs = 0 rsc = 0  acm = 12 hdif = 0.15e-6 ldif = 0 calcacm = 1 )
+	* Unrecognized parameter "binflag" -- ignored
+	* Unrecognized parameter "lref" -- ignored
+	* Unrecognized parameter "wref" -- ignored
+	* Unrecognized parameter "lmlt" -- ignored
+	* Unrecognized parameter "wmlt" -- ignored
+	* Unrecognized parameter "rdc" -- ignored
+	* Unrecognized parameter "rsc" -- ignored
+Error on line 1139 : .model n18 nmos (  lmin = 1.65e-007 lmax = 5e-007 wmin = 2.05e-007 wmax = 5e-007  level = 49 version = 3.24  vth0 = 0.366117 lvth0 = -1.47403e-008 wvth0 = 2.66725e-008 pvth0 = -3.56297e-015  k1 = 0.545245 lk1 = 2.98012e-008 wk1 = -3.37317e-008 pk1 = 2.15531e-015  k2 = -0.0828741 lk2 = -3.13688e-009 wk2 = 2.2083e-008 pk2 = -2.21616e-015  u0 = 82.1962 lu0 = -7.21406e-007 wu0 = 3.91347e-005 pu0 = -3.05508e-012  ua = -2.20996e-009 lua = -1.9575e-017 wua = 1.47763e-016 pua = -1.78406e-023  ub = 2.05305e-018 lub = 1.96594e-026 wub = 8.35067e-026 pub = -4.38281e-033  uc = 2.54121e-011 luc = 1.89694e-018 wuc = 9.47866e-018 puc = -1.08694e-024  vsat = 160610 lvsat = -0.00671812 wvsat = -0.0106955 pvsat = 1.42312e-009  a0 = 0.792804 la0 = 6.44625e-008 wa0 = 8.80982e-008 pa0 = -5.98125e-015  ags = 0.0494074 lags = -1.05104e-007 wags = 1.95167e-007 pags = -1.94303e-014  keta = 0.128524 lketa = -5.75606e-009 wketa = -3.64768e-008 pketa = 3.3e-015  voff = -0.0396063 lvoff = -8.33438e-009 wvoff = -3.8775e-008 pvoff = 3.465e-015  nfactor = 1.32076 lnfactor = -5.88197e-008 wnfactor = -3.35812e-007 pnfactor = 3.6563e-014  pclm = 2.36668 lpclm = -1.41825e-007 wpclm = -8.54955e-008 ppclm = 1.74281e-014  pdiblcb = -6.62619 lpdiblcb = 6.82999e-007 wpdiblcb = 1.54688e-009 ppdiblcb = -6.49688e-016  pscbe1 = 1.30128e+009 lpscbe1 = -95.1788 wpscbe1 = -237.831 ppscbe1 = 2.71734e-005  pvag = 8.93382 lpvag = -8.79934e-007 wpvag = -1.74885e-006 ppvag = 1.73451e-013  ute = -0.724151 lute = -2.08706e-008 wute = -1.81402e-008 pute = -6.04313e-015  ua1 = 1.75309e-009 lua1 = -4.99594e-017 wua1 = 1.18422e-016 pua1 = -2.03672e-023  ub1 = -2.09579e-018 lub1 = 5.69102e-026 wub1 = -1.56513e-025 pub1 = 2.77855e-032  uc1 = 1.94736e-027 luc1 = -8.17891e-034 wuc1 = -5.95026e-034 puc1 = 2.49911e-040  at = -3811.21 lat = 0.00453291 wat = 0.0114515 pat = -9.58547e-010  kt1 = -0.253838 lkt1 = -6.73687e-009 wkt1 = 1.64754e-008 pkt1 = -2.05219e-015  kt2 = -0.044602 lkt2 = 1.70752e-009 wkt2 = -2.35371e-009 pkt2 = 7.75706e-016  eta0 = 0.474555 leta0 = -3.98752e-008 weta0 = -2.351e-009 peta0 = 9.21422e-016  etab = -0.428366 letab = 2.49788e-008 wetab = -2.02321e-009 petab = 7.0125e-016  pdiblc2 = 6.40625e-005 lpdiblc2 = -5.90625e-012 wpdiblc2 = 1.65815e-027 ppdiblc2 = -5.0822e-034  dwg = 0 dwb = 0  binunit = 2 mobmod = 1 capmod = 3 noimod = 2  paramchk = 1 delta = 0.01 tnom = 27 tox = 4e-009  toxm = 4e-009 nch = 4.06574e+017 xj = 1.5e-007 ngate = 0  rsh = 0 k3 = -4.827 k3b = 3.062 w0 = 1.39e-007  nlx = 1.605e-007 dvt0 = 2.483 dvt1 = 0.6728 dvt2 = -0.06749  dvt0w = -1.602 dvt1w = 5.3e+006 dvt2w = -0.032 dsub = 1.431  b0 = 0 b1 = 0 a1 = 0 a2 = 1  rdsw = 340.2 prwb = 0.04881 prwg = -0.2326 wr = 1  wint = 0 wl = 0 wln = 1 ww = 0  wwn = 1 wwl = 0 lint = 2.5e-008 ll = 0  lln = 0.18 lw = 0 lwn = 1 lwl = 0  cit = 0 cdsc = 0.00024 cdscb = 0 cdscd = 0  pdiblc1 = 0.05871 drout = 0.56 pscbe2 = 1e-005  alpha0 = 0 alpha1 = 0 beta0 = 30 js = 1.663e-005  jsw = 6.906e-011 nj = 1.427 ijth = 0.1 cj = 0.001151  mj = 0.409 pb = 0.75 cjsw = 2e-011 mjsw = 0.33  pbsw = 1 cjswg = 5e-010 mjswg = 0.33 pbswg = 1  cgdo = 2.2e-010 cgso = 2.2e-010 cgbo = 0 cgsl = 0  cgdl = 0 ckappa = 0.6 cf = 0 noff = 3  voffcv = -0.09 acde = 1.2 moin = 15 dlc=-142n  dwc = 0 llc = 9.7n lwc = 0 lwlc = 0  wlc = 0 wwc = 0 wwlc = 0 clc = 1e-007  cle = 0.6 elm = 2 xpart = 0.5 kt1l = 0  prt = 88.16 xti = 1 tpb = 0.0008538 tpbsw = 0.007691  tpbswg = 0 tcj = 0.0006691 tcjsw = 0.002736 tcjswg = 0  ef = 0.986 em = 5916433  noia = 7.943e+19 noib = 251188 noic = -2.511e-12  binflag = 1 lref = 1e14 wref = 1e14 tref = 25  xl = 0 xw = 0 lmlt = 1 wmlt = 1  rd = 0 rdc = 0 rs = 0 rsc = 0  acm = 12 hdif = 0.15e-6 ldif = 0 calcacm = 1 )
+	* Unrecognized parameter "binflag" -- ignored
+	* Unrecognized parameter "lref" -- ignored
+	* Unrecognized parameter "wref" -- ignored
+	* Unrecognized parameter "lmlt" -- ignored
+	* Unrecognized parameter "wmlt" -- ignored
+	* Unrecognized parameter "rdc" -- ignored
+	* Unrecognized parameter "rsc" -- ignored
+
+   --- Expanded Deck Component Count ---
+C's 2
+I's 1
+M's 10
+V's 6
+tot: 19
+
+
+    --- Expanded Netlist ---
+* D:\IIST Education\7th Semester\AVM613 Analog VLSI circuits\Project\Basic OpAmps\Telescopic_cascode.asc
+m1 n003 vinp n005 n005 n18 l=180n w=6.7u
+m2 n004 vinm n005 n005 n18 l=180n w=6.7u
+v1 vdd 0 1.8
+v2 vinp 0 0.9 ac 1m 0
+v3 vinm 0 0.9 ac 1m 180
+c1 voutp 0 1p
+c2 voutm 0 1p
+m3 n001 vb3 vdd vdd p18 l=180n w=7u
+m4 n002 vb3 vdd vdd p18 l=180n w=7u
+m5 n005 n006 0 0 n18 l=3.2e-007 w=1e-006 m=4
+v4 vb2 0 0.7
+v5 vb3 0 1.1
+m6 n006 n006 0 0 n18 l=3.2e-007 w=1e-006 
+iref1 vdd n006 10µ
+m9 voutm vb2 n001 vdd p18 l=180n w=7u
+m10 voutp vb2 n002 vdd p18 l=180n w=7u
+v6 vb1 0 1.1
+m7 voutm vb1 n003 0 n18 l=180n w=6.7u
+m8 voutp vb1 n004 0 n18 l=180n w=6.7u
+.model p18 pmos (lmin=1.65e-007 lmax=5e-007 wmin=2.05e-007 wmax=5e-007 level=49 version=3.24 vth0=-0.4253 lvth0=9.705e-009 wvth0=1.12406e-008 pvth0=-1.86656e-015 k1=0.434498 lk1=4.78238e-008 wk1=8.46853e-008 pk1=-1.17253e-014 k2=0.0578256 lk2=-1.52753e-008 wk2=-3.07462e-008 pk2=3.30052e-015 u0=66.6004 lu0=-4.32947e-006 wu0=-5.08676e-006 pu0=5.90391e-013 ua=3.45013e-010 lua=-2.14416e-016 wua=-2.63838e-016 pua=3.20409e-023 ub=1.17418e-018 lub=1.20675e-025 wub=5.9567e-026 pub=-2.15531e-032 uc=-1.33336e-010 luc=1.65518e-017 wuc=1.60416e-017 puc=-4.69477e-024 vsat=120403 lvsat=0.00243187 wvsat=-0.00436071 pvsat=-3.3e-010 a0=1.45659 la0=1.18255e-007 wa0=-1.73326e-007 pa0=-2.62453e-015 ags=0.114358 lags=1.99911e-007 wags=5.94835e-008 pags=-4.09716e-014 keta=0.000583741 lketa=2.17727e-009 wketa=1.504e-009 pketa=-9.67622e-016 voff=-0.132098 lvoff=2.75906e-009 wvoff=8.51763e-009 pvoff=-1.36641e-015 nfactor=1.14491 lnfactor=1.65319e-008 wnfactor=-5.95179e-009 pnfactor=1.93875e-015 pclm=2.65776 lpclm=-1.9952e-007 wpclm=-2.13849e-007 ppclm=2.41467e-014 pdiblcb=-3.9798 lpdiblcb=5.29266e-007 wpdiblcb=-6.2285e-007 ppdiblcb=5.08922e-014 pscbe1=-5.3e+008 lpscbe1=153 wpscbe1=336.6 ppscbe1=-3.366e-005 pvag=6.04997 lpvag=-5.9257e-007 wpvag=-1.33093e-006 ppvag=1.30361e-013 ute=-0.414135 lute=-4.36472e-008 wute=2.52239e-008 pute=2.8478e-014 ua1=4.37327e-009 lua1=-3.27984e-016 wua1=-4.00199e-016 pua1=1.00598e-022 ub1=-6.10158e-018 lub1=4.15322e-025 wub1=7.03288e-025 pub1=-1.14211e-031 uc1=-8.57234e-011 luc1=2.46323e-017 wuc1=-1.69555e-017 puc1=-6.33445e-024 at=38950.9 lat=0.00464062 wat=0.00552455 pat=-2.32031e-009 kt1=-0.243082 lkt1=-6.1275e-009 wkt1=1.01504e-008 pkt1=9.17812e-016 kt2=0.014073 lkt2=-8.36527e-009 wkt2=9.40795e-010 pkt2=1.25091e-015 pdiblc2=4.625e-005 lpdiblc2=-2.625e-012 wpdiblc2=-9.96873e-028 ppdiblc2=0 dwg=0 dwb=0 binunit=2 mobmod=1 capmod=3 noimod=2 paramchk=1 delta=0.01 tnom=27 tox=4e-009 toxm=4e-009 nch=8.11518e+017 xj=1.5e-007 ngate=0 rsh=0 k3=-5.059 k3b=3.962 w0=2.705e-007 nlx=8.26e-008 dvt0=0.9523 dvt1=0.2578 dvt2=0.099 dvt0w=-2.973 dvt1w=5.3e+006 dvt2w=-0.032 eta0=0.003519 etab=-0.004696 dsub=0.2 b0=0 b1=0 a1=1e-015 a2=0.995 rdsw=1505 prwb=-0.009067 prwg=-0.2868 wr=1 wint=-4e-008 wl=0 wln=1 ww=0 wwn=1 wwl=0 lint=5e-008 ll=0 lln=0.21 lw=0 lwn=1 lwl=0 cit=0 cdsc=0.00024 cdscb=0 cdscd=0 pdiblc1=0.1029 drout=0.56 pscbe2=1e-005 alpha0=0 alpha1=0 beta0=30 js=1.775e-006 jsw=1e-018 nj=1.127 ijth=0.001416 cj=0.0009621 mj=0.3626 pb=0.775 cjsw=2.8e-011 mjsw=0.05 pbsw=1 cjswg=5e-010 mjswg=0.33 pbswg=1 cgdo=2.6e-010 cgso=2.6e-010 cgbo=0 cgsl=0 cgdl=0 ckappa=0.6 cf=0 noff=3 voffcv=-0.08 acde=0.9 moin=15 dlc=-136n dwc=0 llc=5.77n lwc=0 lwlc=0 wlc=0 wwc=0 wwlc=0 clc=1e-007 cle=0.6 elm=2 xpart=0.5 kt1l=0 prt=565.7 xti=1.311 tpb=0.0008294 tpbsw=0 tpbswg=0 tcj=0.0006115 tcjsw=0 tcjswg=0 ef=1.24 em=21500000 noia=5.623e+19 noib=1526000 noic=3.630e-11 binflag=1 lref=1e14 wref=1e14 tref=25 xl=0 xw=0 lmlt=1 wmlt=1 rd=0 rdc=0 rs=0 rsc=0 acm=12 hdif=0.15e-6 ldif=0 calcacm=1);--> * Unrecognized parameter "binflag" -- ignored
+* Unrecognized parameter "lref" -- ignored
+* Unrecognized parameter "wref" -- ignored
+* Unrecognized parameter "lmlt" -- ignored
+* Unrecognized parameter "wmlt" -- ignored
+* Unrecognized parameter "rdc" -- ignored
+* Unrecognized parameter "rsc" -- ignored
+.model n18 nmos (lmin=1.65e-007 lmax=5e-007 wmin=2.05e-007 wmax=5e-007 level=49 version=3.24 vth0=0.366117 lvth0=-1.47403e-008 wvth0=2.66725e-008 pvth0=-3.56297e-015 k1=0.545245 lk1=2.98012e-008 wk1=-3.37317e-008 pk1=2.15531e-015 k2=-0.0828741 lk2=-3.13688e-009 wk2=2.2083e-008 pk2=-2.21616e-015 u0=82.1962 lu0=-7.21406e-007 wu0=3.91347e-005 pu0=-3.05508e-012 ua=-2.20996e-009 lua=-1.9575e-017 wua=1.47763e-016 pua=-1.78406e-023 ub=2.05305e-018 lub=1.96594e-026 wub=8.35067e-026 pub=-4.38281e-033 uc=2.54121e-011 luc=1.89694e-018 wuc=9.47866e-018 puc=-1.08694e-024 vsat=160610 lvsat=-0.00671812 wvsat=-0.0106955 pvsat=1.42312e-009 a0=0.792804 la0=6.44625e-008 wa0=8.80982e-008 pa0=-5.98125e-015 ags=0.0494074 lags=-1.05104e-007 wags=1.95167e-007 pags=-1.94303e-014 keta=0.128524 lketa=-5.75606e-009 wketa=-3.64768e-008 pketa=3.3e-015 voff=-0.0396063 lvoff=-8.33438e-009 wvoff=-3.8775e-008 pvoff=3.465e-015 nfactor=1.32076 lnfactor=-5.88197e-008 wnfactor=-3.35812e-007 pnfactor=3.6563e-014 pclm=2.36668 lpclm=-1.41825e-007 wpclm=-8.54955e-008 ppclm=1.74281e-014 pdiblcb=-6.62619 lpdiblcb=6.82999e-007 wpdiblcb=1.54688e-009 ppdiblcb=-6.49688e-016 pscbe1=1.30128e+009 lpscbe1=-95.1788 wpscbe1=-237.831 ppscbe1=2.71734e-005 pvag=8.93382 lpvag=-8.79934e-007 wpvag=-1.74885e-006 ppvag=1.73451e-013 ute=-0.724151 lute=-2.08706e-008 wute=-1.81402e-008 pute=-6.04313e-015 ua1=1.75309e-009 lua1=-4.99594e-017 wua1=1.18422e-016 pua1=-2.03672e-023 ub1=-2.09579e-018 lub1=5.69102e-026 wub1=-1.56513e-025 pub1=2.77855e-032 uc1=1.94736e-027 luc1=-8.17891e-034 wuc1=-5.95026e-034 puc1=2.49911e-040 at=-3811.21 lat=0.00453291 wat=0.0114515 pat=-9.58547e-010 kt1=-0.253838 lkt1=-6.73687e-009 wkt1=1.64754e-008 pkt1=-2.05219e-015 kt2=-0.044602 lkt2=1.70752e-009 wkt2=-2.35371e-009 pkt2=7.75706e-016 eta0=0.474555 leta0=-3.98752e-008 weta0=-2.351e-009 peta0=9.21422e-016 etab=-0.428366 letab=2.49788e-008 wetab=-2.02321e-009 petab=7.0125e-016 pdiblc2=6.40625e-005 lpdiblc2=-5.90625e-012 wpdiblc2=1.65815e-027 ppdiblc2=-5.0822e-034 dwg=0 dwb=0 binunit=2 mobmod=1 capmod=3 noimod=2 paramchk=1 delta=0.01 tnom=27 tox=4e-009 toxm=4e-009 nch=4.06574e+017 xj=1.5e-007 ngate=0 rsh=0 k3=-4.827 k3b=3.062 w0=1.39e-007 nlx=1.605e-007 dvt0=2.483 dvt1=0.6728 dvt2=-0.06749 dvt0w=-1.602 dvt1w=5.3e+006 dvt2w=-0.032 dsub=1.431 b0=0 b1=0 a1=0 a2=1 rdsw=340.2 prwb=0.04881 prwg=-0.2326 wr=1 wint=0 wl=0 wln=1 ww=0 wwn=1 wwl=0 lint=2.5e-008 ll=0 lln=0.18 lw=0 lwn=1 lwl=0 cit=0 cdsc=0.00024 cdscb=0 cdscd=0 pdiblc1=0.05871 drout=0.56 pscbe2=1e-005 alpha0=0 alpha1=0 beta0=30 js=1.663e-005 jsw=6.906e-011 nj=1.427 ijth=0.1 cj=0.001151 mj=0.409 pb=0.75 cjsw=2e-011 mjsw=0.33 pbsw=1 cjswg=5e-010 mjswg=0.33 pbswg=1 cgdo=2.2e-010 cgso=2.2e-010 cgbo=0 cgsl=0 cgdl=0 ckappa=0.6 cf=0 noff=3 voffcv=-0.09 acde=1.2 moin=15 dlc=-142n dwc=0 llc=9.7n lwc=0 lwlc=0 wlc=0 wwc=0 wwlc=0 clc=1e-007 cle=0.6 elm=2 xpart=0.5 kt1l=0 prt=88.16 xti=1 tpb=0.0008538 tpbsw=0.007691 tpbswg=0 tcj=0.0006691 tcjsw=0.002736 tcjswg=0 ef=0.986 em=5916433 noia=7.943e+19 noib=251188 noic=-2.511e-12 binflag=1 lref=1e14 wref=1e14 tref=25 xl=0 xw=0 lmlt=1 wmlt=1 rd=0 rdc=0 rs=0 rsc=0 acm=12 hdif=0.15e-6 ldif=0 calcacm=1);--> * Unrecognized parameter "binflag" -- ignored
+* Unrecognized parameter "lref" -- ignored
+* Unrecognized parameter "wref" -- ignored
+* Unrecognized parameter "lmlt" -- ignored
+* Unrecognized parameter "wmlt" -- ignored
+* Unrecognized parameter "rdc" -- ignored
+* Unrecognized parameter "rsc" -- ignored
+.op
+.end
+
+Warning: LTspice supports BSIM3 version 3.3.0. Your model specified an unrecognized version: 3.24
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: LTspice supports BSIM3 version 3.3.0. Your model specified an unrecognized version: 3.24
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: LTspice supports BSIM3 version 3.3.0. Your model specified an unrecognized version: 3.24
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- BSIM3 MOSFETS ---
+Name:        m10         m9          m4          m3          m8
+Model:       p18         p18         p18         p18         n18
+Id:       -1.65e-05   -1.65e-05   -1.65e-05   -1.65e-05    1.65e-05
+Vgs:      -7.82e-01   -7.82e-01   -7.00e-01   -7.00e-01    9.43e-01
+Vds:      -1.32e+00   -1.32e+00   -3.18e-01   -3.18e-01    6.29e-03
+Vbs:       3.18e-01    3.18e-01    0.00e+00    0.00e+00   -1.57e-01
+Vth:      -6.56e-01   -6.56e-01   -5.55e-01   -5.55e-01    5.59e-01
+Vdsat:    -1.22e-01   -1.22e-01   -1.26e-01   -1.26e-01    2.93e-01
+Gm:        2.05e-04    2.05e-04    1.94e-04    1.94e-04    4.55e-05
+Gds:       2.96e-06    2.96e-06    5.31e-06    5.31e-06    2.59e-03
+Gmb        7.05e-05    7.05e-05    6.42e-05    6.42e-05    6.56e-06
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     1.82e-15    1.82e-15    1.82e-15    1.82e-15    1.47e-15
+Cgdov:     1.82e-15    1.82e-15    1.82e-15    1.82e-15    1.47e-15
+Cgbov:     0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+dQgdVgb:   1.02e-14    1.02e-14    1.04e-14    1.04e-14    1.06e-14
+dQgdVdb:  -1.79e-15   -1.79e-15   -1.82e-15   -1.82e-15   -5.08e-15
+dQgdVsb:  -7.01e-15   -7.01e-15   -7.15e-15   -7.15e-15   -4.68e-15
+dQddVgb:  -4.19e-15   -4.19e-15   -4.24e-15   -4.24e-15   -5.30e-15
+dQddVdb:   1.80e-15    1.80e-15    1.83e-15    1.83e-15    5.43e-15
+dQddVsb:   3.12e-15    3.12e-15    3.34e-15    3.34e-15    6.68e-16
+dQbdVgb:  -1.82e-15   -1.82e-15   -1.88e-15   -1.88e-15   -4.06e-17
+dQbdVdb:   6.53e-18    6.53e-18   -2.48e-17   -2.48e-17   -4.30e-15
+dQbdVsb:  -1.06e-15   -1.06e-15   -1.34e-15   -1.34e-15    1.87e-15
+
+Name:        m7          m6          m5          m2          m1
+Model:       n18         n18         n18         n18         n18
+Id:        1.65e-05    1.00e-05    3.30e-05    1.65e-05    1.65e-05
+Vgs:       9.43e-01    6.30e-01    6.30e-01    7.54e-01    7.54e-01
+Vds:       6.29e-03    6.30e-01    1.46e-01    1.14e-02    1.14e-02
+Vbs:      -1.57e-01    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Vth:       5.59e-01    4.54e-01    4.54e-01    5.24e-01    5.24e-01
+Vdsat:     2.93e-01    1.77e-01    1.77e-01    2.03e-01    2.03e-01
+Gm:        4.55e-05    1.01e-04    2.91e-04    7.84e-05    7.84e-05
+Gds:       2.59e-03    1.23e-06    8.42e-05    1.40e-03    1.40e-03
+Gmb        6.56e-06    2.03e-05    5.88e-05    1.45e-05    1.45e-05
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     1.47e-15    2.20e-16    8.80e-16    1.47e-15    1.47e-15
+Cgdov:     1.47e-15    2.20e-16    8.80e-16    1.47e-15    1.47e-15
+Cgbov:     0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+dQgdVgb:   1.06e-14    2.35e-15    9.90e-15    1.04e-14    1.04e-14
+dQgdVdb:  -5.08e-15   -2.21e-16   -1.79e-15   -4.81e-15   -4.81e-15
+dQgdVsb:  -4.68e-15   -1.82e-15   -6.99e-15   -4.63e-15   -4.63e-15
+dQddVgb:  -5.30e-15   -9.81e-16   -4.38e-15   -5.13e-15   -5.13e-15
+dQddVdb:   5.43e-15    2.21e-16    1.71e-15    5.15e-15    5.15e-15
+dQddVsb:   6.68e-16    9.35e-16    3.48e-15    8.40e-16    8.40e-16
+dQbdVgb:  -4.06e-17   -3.88e-16   -1.13e-15   -1.22e-16   -1.22e-16
+dQbdVdb:  -4.30e-15   -9.45e-19   -7.53e-16   -4.01e-15   -4.01e-15
+dQbdVsb:   1.87e-15   -2.70e-16   -8.51e-16    1.48e-15    1.48e-15
+
+
+
+Date: Sun Nov 21 14:58:28 2021
+Total elapsed time: 0.078 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 13
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 20
+fillins = 0
+solver = Normal
+Matrix Compiler1: 936 bytes object code size
+Matrix Compiler2: 1.77 KB object code size
